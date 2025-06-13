@@ -1,0 +1,78 @@
+- [NO NEED] /index
+- [x] /contact-us/index
+- [x] /dashboard/index
+- [x] /enquiry/index
+- [x] /tos/index
+- [x] /authentication/forgot-password
+- [x] /authentication/login
+- [x] /authentication/register
+- [EXTRA ACTION] /authentication/reset-password
+- [x] /authentication/verify
+- [x] /blog/category/index
+- [x] /blog/post/index
+- [x] /configuration/about-us
+- [x] /configuration/footer
+- [x] /configuration/landing
+- [x] /configuration/navbar
+- [x] /enquiry/details
+- [x] /logistics/address/index
+- [x] /logistics/courier/index
+- [x] /logistics/fprocurement
+- [x] /logistics/shipment/index
+- [EXTRA ACTION] /logistics-management/procurement
+- [EXTRA ACTION] /logistics-management/delivery
+- [x] /membership/customer/index
+- [x] /membership/customer-group/index
+- [x] /membership/point-settings
+- [x] /results/failure
+- [x] /results/success
+- [x] /results/unauthorized
+- [x] /staff-roles-and-permission/accounts/index
+- [x] /staff-roles-and-permission/permission/index
+- [x] /staff-roles-and-permission/roles/index
+- [x] /warehouse/location/index
+- [x] /warehouse/product/index
+- [x] /blog/category/details
+- [x] /blog/post/details
+- [No Need] /blog/post/excel
+- [NO DATA] /logistics/address/details
+- [x] /logistics/courier/details
+- [x] /logistics/shipment/create
+- [NO DATA] /logistics/shipment/details
+- [x] /membership/customer-group/details
+- [x] /membership/customer/details
+- [EXTRA ACTION] /shop/discount/free-shipping
+- [x] /shop/discount/order/index
+- [x] /shop/discount/promotion-code
+- [x] /shop/discount/store-discount
+- [EXTRA ACTION] /shop/discount/voucher
+- [x] /shop/offline/cashier/index
+- [x] /shop/offline/order/index
+- [x] /shop/offline/store/index
+- [x] /staff-roles-and-permission/accounts/details
+- [x] /staff-roles-and-permission/roles/details
+- [x] /warehouse/inventory/transfer
+- [x] /warehouse/location/details
+- [x] /warehouse/product/details
+- [EXTRA ACTION] /warehouse/product/excel
+- [x] /warehouse/product/review/index
+- [EXTRA ACTION] /warehouse/product/variant-excel
+- [x] /membership/customer-group/permission/blog-category
+- [x] /membership/customer-group/permission/customer-url
+- [x] /membership/customer-group/permission/product
+- [x] /membership/customer-group/permission/product-category
+- [x] /shop/discount/order/details
+- [x] /shop/offline/cashier/details
+- [x] /shop/offline/cashier/fplace-order
+- [EXTRA ACTION] /shop/offline/cashier/make-order
+- [EXTRA ACTION] /shop/offline/cashier/place-order
+- [x] /shop/offline/cashier/staff
+- [NO DATA] /shop/offline/order/details
+- [x] /shop/offline/store/details
+- [BUG] /shop/online/order/details
+- [x] /shop/online/category/\_store/index
+- [x] /shop/online/order/\_store
+- [x] /shop/online/category/\_store/assign
+- [x] /shop/online/category/\_store/details
+- [x] /shop/discount/\_store
+- [NO DATA] /warehouse/product/review/details

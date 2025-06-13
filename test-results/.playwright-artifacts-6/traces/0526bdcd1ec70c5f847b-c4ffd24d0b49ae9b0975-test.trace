@@ -1,0 +1,27 @@
+{"version":7,"type":"context-options","origin":"testRunner","browserName":"","options":{},"platform":"linux","wallTime":1749808509103,"monotonicTime":49495.021,"sdkLanguage":"javascript"}
+{"type":"before","callId":"hook@1","startTime":49497.496,"class":"Test","method":"step","apiName":"Before Hooks","params":{},"stack":[]}
+{"type":"after","callId":"hook@1","endTime":49503.165,"attachments":[]}
+{"type":"before","callId":"pw:api@2","startTime":49504.182,"class":"Test","method":"step","apiName":"page.goto","params":{"url":"/en/@app/management/sales-and-invoicing/sales-quotation","waitUntil":"load"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":6,"column":16,"function":"goToPage"}]}
+{"type":"after","callId":"pw:api@2","endTime":53887.988,"attachments":[]}
+{"type":"before","callId":"expect@3","startTime":56889.837,"class":"Test","method":"step","apiName":"expect.toBeVisible","params":{},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":9,"column":30,"function":"goToPage"}]}
+{"type":"after","callId":"expect@3","endTime":56921.541,"attachments":[]}
+{"type":"before","callId":"pw:api@4","startTime":56922.554,"class":"Test","method":"step","apiName":"locator.click","params":{"selector":"i.mdi.mdi-backburger >> nth=0","strict":"true"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":10,"column":22,"function":"goToPage"}]}
+{"type":"after","callId":"pw:api@4","endTime":56975.705,"attachments":[]}
+{"type":"before","callId":"expect@5","startTime":56976.435,"class":"Test","method":"step","apiName":"expect.toBeVisible","params":{},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":14,"column":26,"function":"goToPage"}]}
+{"type":"after","callId":"expect@5","endTime":56996.301,"attachments":[]}
+{"type":"before","callId":"pw:api@6","startTime":56997.941,"class":"Test","method":"step","apiName":"locator.isVisible","params":{"selector":"internal:text=\"error 404\"i","strict":"true"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":15,"column":43,"function":"goToPage"}]}
+{"type":"after","callId":"pw:api@6","endTime":57036.424,"attachments":[]}
+{"type":"before","callId":"expect@7","startTime":57037.616,"class":"Test","method":"step","apiName":"expect.toBeVisible","params":{},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/tests/admin-screenshots/jc.spec.js","line":741,"column":15}]}
+{"type":"after","callId":"expect@7","endTime":57060.078,"attachments":[]}
+{"type":"before","callId":"pw:api@8","startTime":60061.777,"class":"Test","method":"step","apiName":"page.screenshot","params":{"path":"output/F01.png","fullPage":"false","mask":"undefined","type":"png"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/screenshotNoTime.js","line":18,"column":16,"function":"screenshot"}]}
+{"type":"after","callId":"pw:api@8","endTime":60129.617,"attachments":[]}
+{"type":"before","callId":"pw:api@9","startTime":60131.221,"class":"Test","method":"step","apiName":"page.screenshot","params":{"path":"output/F02.png","fullPage":"false","mask":"undefined","type":"png"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/screenshotNoTime.js","line":18,"column":16,"function":"screenshot"}]}
+{"type":"after","callId":"pw:api@9","endTime":60211.97,"attachments":[]}
+{"type":"before","callId":"pw:api@10","startTime":60213.371,"class":"Test","method":"step","apiName":"page.screenshot","params":{"path":"output/F03.png","fullPage":"false","mask":"undefined","type":"png"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/screenshotNoTime.js","line":18,"column":16,"function":"screenshot"}]}
+{"type":"after","callId":"pw:api@10","endTime":60276.853,"attachments":[]}
+{"type":"before","callId":"pw:api@11","startTime":60278.727,"class":"Test","method":"step","apiName":"page.screenshot","params":{"path":"output/F05.png","fullPage":"false","mask":"undefined","type":"png"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/screenshotNoTime.js","line":18,"column":16,"function":"screenshot"}]}
+{"type":"after","callId":"pw:api@11","endTime":60342.945,"attachments":[]}
+{"type":"before","callId":"hook@12","startTime":60343.727,"class":"Test","method":"step","apiName":"After Hooks","params":{},"stack":[]}
+{"type":"after","callId":"hook@12","endTime":62785.345,"attachments":[]}
+{"type":"before","callId":"attach@13","startTime":65534.504,"class":"Test","method":"step","apiName":"attach \"trace\"","params":{},"stack":[]}
+{"type":"after","callId":"attach@13","endTime":65534.864,"attachments":[]}

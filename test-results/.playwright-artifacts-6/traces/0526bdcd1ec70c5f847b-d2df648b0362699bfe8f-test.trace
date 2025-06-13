@@ -1,0 +1,23 @@
+{"version":7,"type":"context-options","origin":"testRunner","browserName":"","options":{},"platform":"linux","wallTime":1749808558041,"monotonicTime":98433.44,"sdkLanguage":"javascript"}
+{"type":"before","callId":"hook@1","startTime":98435.863,"class":"Test","method":"step","apiName":"Before Hooks","params":{},"stack":[]}
+{"type":"after","callId":"hook@1","endTime":98442.483,"attachments":[]}
+{"type":"before","callId":"pw:api@2","startTime":98443.481,"class":"Test","method":"step","apiName":"page.goto","params":{"url":"/en/@app/management/purchase-orders/purchase-order-details","waitUntil":"load"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":6,"column":16,"function":"goToPage"}]}
+{"type":"after","callId":"pw:api@2","endTime":102570.669,"attachments":[]}
+{"type":"before","callId":"expect@3","startTime":105572.686,"class":"Test","method":"step","apiName":"expect.toBeVisible","params":{},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":9,"column":30,"function":"goToPage"}]}
+{"type":"after","callId":"expect@3","endTime":105603.344,"attachments":[]}
+{"type":"before","callId":"pw:api@4","startTime":105604.324,"class":"Test","method":"step","apiName":"locator.click","params":{"selector":"i.mdi.mdi-backburger >> nth=0","strict":"true"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":10,"column":22,"function":"goToPage"}]}
+{"type":"after","callId":"pw:api@4","endTime":105654.776,"attachments":[]}
+{"type":"before","callId":"expect@5","startTime":105655.616,"class":"Test","method":"step","apiName":"expect.toBeVisible","params":{},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":14,"column":26,"function":"goToPage"}]}
+{"type":"after","callId":"expect@5","endTime":105680.292,"attachments":[]}
+{"type":"before","callId":"pw:api@6","startTime":105681.494,"class":"Test","method":"step","apiName":"locator.isVisible","params":{"selector":"internal:text=\"error 404\"i","strict":"true"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":15,"column":43,"function":"goToPage"}]}
+{"type":"after","callId":"pw:api@6","endTime":105718.733,"attachments":[]}
+{"type":"before","callId":"expect@7","startTime":105719.484,"class":"Test","method":"step","apiName":"expect.toBeVisible","params":{},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/tests/admin-screenshots/jc.spec.js","line":741,"column":15}]}
+{"type":"after","callId":"expect@7","endTime":105741.528,"attachments":[]}
+{"type":"before","callId":"pw:api@8","startTime":108744.082,"class":"Test","method":"step","apiName":"page.screenshot","params":{"path":"output/G04.png","fullPage":"false","mask":"undefined","type":"png"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/screenshotNoTime.js","line":18,"column":16,"function":"screenshot"}]}
+{"type":"after","callId":"pw:api@8","endTime":108851.78,"attachments":[]}
+{"type":"before","callId":"pw:api@9","startTime":108853.855,"class":"Test","method":"step","apiName":"page.screenshot","params":{"path":"output/G06.png","fullPage":"false","mask":"undefined","type":"png"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/screenshotNoTime.js","line":18,"column":16,"function":"screenshot"}]}
+{"type":"after","callId":"pw:api@9","endTime":108929.437,"attachments":[]}
+{"type":"before","callId":"hook@10","startTime":108930.514,"class":"Test","method":"step","apiName":"After Hooks","params":{},"stack":[]}
+{"type":"after","callId":"hook@10","endTime":111379.769,"attachments":[]}
+{"type":"before","callId":"attach@11","startTime":113818.32,"class":"Test","method":"step","apiName":"attach \"trace\"","params":{},"stack":[]}
+{"type":"after","callId":"attach@11","endTime":113818.533,"attachments":[]}

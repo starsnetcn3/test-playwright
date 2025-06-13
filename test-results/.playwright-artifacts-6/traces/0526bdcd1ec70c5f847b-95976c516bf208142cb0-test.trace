@@ -1,0 +1,21 @@
+{"version":7,"type":"context-options","origin":"testRunner","browserName":"","options":{},"platform":"linux","wallTime":1749808673563,"monotonicTime":213955.775,"sdkLanguage":"javascript"}
+{"type":"before","callId":"hook@1","startTime":213957.951,"class":"Test","method":"step","apiName":"Before Hooks","params":{},"stack":[]}
+{"type":"after","callId":"hook@1","endTime":213964.876,"attachments":[]}
+{"type":"before","callId":"pw:api@2","startTime":213965.83,"class":"Test","method":"step","apiName":"page.goto","params":{"url":"/en/@app/management/supplier/purchase-orders","waitUntil":"load"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":6,"column":16,"function":"goToPage"}]}
+{"type":"after","callId":"pw:api@2","endTime":220757.227,"attachments":[]}
+{"type":"before","callId":"expect@3","startTime":223759.166,"class":"Test","method":"step","apiName":"expect.toBeVisible","params":{},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":9,"column":30,"function":"goToPage"}]}
+{"type":"after","callId":"expect@3","endTime":223804.082,"attachments":[]}
+{"type":"before","callId":"pw:api@4","startTime":223806.503,"class":"Test","method":"step","apiName":"locator.click","params":{"selector":"i.mdi.mdi-backburger >> nth=0","strict":"true"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":10,"column":22,"function":"goToPage"}]}
+{"type":"after","callId":"pw:api@4","endTime":223889.565,"attachments":[]}
+{"type":"before","callId":"expect@5","startTime":223890.415,"class":"Test","method":"step","apiName":"expect.toBeVisible","params":{},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":14,"column":26,"function":"goToPage"}]}
+{"type":"after","callId":"expect@5","endTime":223912.994,"attachments":[]}
+{"type":"before","callId":"pw:api@6","startTime":223914.407,"class":"Test","method":"step","apiName":"locator.isVisible","params":{"selector":"internal:text=\"error 404\"i","strict":"true"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":15,"column":43,"function":"goToPage"}]}
+{"type":"after","callId":"pw:api@6","endTime":223947.921,"attachments":[]}
+{"type":"before","callId":"expect@7","startTime":223948.719,"class":"Test","method":"step","apiName":"expect.toBeVisible","params":{},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/tests/admin-screenshots/jc.spec.js","line":741,"column":15}]}
+{"type":"after","callId":"expect@7","endTime":223970.66,"attachments":[]}
+{"type":"before","callId":"pw:api@8","startTime":226971.67,"class":"Test","method":"step","apiName":"page.screenshot","params":{"path":"output/I06.png","fullPage":"false","mask":"undefined","type":"png"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/screenshotNoTime.js","line":18,"column":16,"function":"screenshot"}]}
+{"type":"after","callId":"pw:api@8","endTime":227097.779,"attachments":[]}
+{"type":"before","callId":"hook@9","startTime":227099.346,"class":"Test","method":"step","apiName":"After Hooks","params":{},"stack":[]}
+{"type":"after","callId":"hook@9","endTime":229868.917,"attachments":[]}
+{"type":"before","callId":"attach@10","startTime":232885.81,"class":"Test","method":"step","apiName":"attach \"trace\"","params":{},"stack":[]}
+{"type":"after","callId":"attach@10","endTime":232886.018,"attachments":[]}

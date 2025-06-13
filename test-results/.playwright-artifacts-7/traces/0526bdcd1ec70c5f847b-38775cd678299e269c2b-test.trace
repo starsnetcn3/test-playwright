@@ -1,0 +1,25 @@
+{"version":7,"type":"context-options","origin":"testRunner","browserName":"","options":{},"platform":"linux","wallTime":1749808495944,"monotonicTime":36329.074,"sdkLanguage":"javascript"}
+{"type":"before","callId":"hook@1","startTime":36331.789,"class":"Test","method":"step","apiName":"Before Hooks","params":{},"stack":[]}
+{"type":"after","callId":"hook@1","endTime":36340.645,"attachments":[]}
+{"type":"before","callId":"pw:api@2","startTime":36342.92,"class":"Test","method":"step","apiName":"page.goto","params":{"url":"/en/@app/management/accounting-management/bank-accounts","waitUntil":"load"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":6,"column":16,"function":"goToPage"}]}
+{"type":"after","callId":"pw:api@2","endTime":41261.856,"attachments":[]}
+{"type":"before","callId":"expect@3","startTime":44266.273,"class":"Test","method":"step","apiName":"expect.toBeVisible","params":{},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":9,"column":30,"function":"goToPage"}]}
+{"type":"after","callId":"expect@3","endTime":44309.928,"attachments":[]}
+{"type":"before","callId":"pw:api@4","startTime":44311.036,"class":"Test","method":"step","apiName":"locator.click","params":{"selector":"i.mdi.mdi-backburger >> nth=0","strict":"true"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":10,"column":22,"function":"goToPage"}]}
+{"type":"after","callId":"pw:api@4","endTime":44368.423,"attachments":[]}
+{"type":"before","callId":"expect@5","startTime":44369.349,"class":"Test","method":"step","apiName":"expect.toBeVisible","params":{},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":14,"column":26,"function":"goToPage"}]}
+{"type":"after","callId":"expect@5","endTime":44399.362,"attachments":[]}
+{"type":"before","callId":"pw:api@6","startTime":44400.554,"class":"Test","method":"step","apiName":"locator.isVisible","params":{"selector":"internal:text=\"error 404\"i","strict":"true"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":15,"column":43,"function":"goToPage"}]}
+{"type":"after","callId":"pw:api@6","endTime":44447.127,"attachments":[]}
+{"type":"before","callId":"expect@7","startTime":44448.101,"class":"Test","method":"step","apiName":"expect.toBeVisible","params":{},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/tests/admin-screenshots/jc.spec.js","line":741,"column":15}]}
+{"type":"after","callId":"expect@7","endTime":44475.959,"attachments":[]}
+{"type":"before","callId":"pw:api@8","startTime":47478.17,"class":"Test","method":"step","apiName":"page.screenshot","params":{"path":"output/L01.png","fullPage":"false","mask":"undefined","type":"png"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/screenshotNoTime.js","line":18,"column":16,"function":"screenshot"}]}
+{"type":"after","callId":"pw:api@8","endTime":47560.376,"attachments":[]}
+{"type":"before","callId":"pw:api@9","startTime":47562.907,"class":"Test","method":"step","apiName":"page.screenshot","params":{"path":"output/L02.png","fullPage":"false","mask":"undefined","type":"png"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/screenshotNoTime.js","line":18,"column":16,"function":"screenshot"}]}
+{"type":"after","callId":"pw:api@9","endTime":47641.717,"attachments":[]}
+{"type":"before","callId":"pw:api@10","startTime":47643.141,"class":"Test","method":"step","apiName":"page.screenshot","params":{"path":"output/L08.png","fullPage":"false","mask":"undefined","type":"png"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/screenshotNoTime.js","line":18,"column":16,"function":"screenshot"}]}
+{"type":"after","callId":"pw:api@10","endTime":47747.671,"attachments":[]}
+{"type":"before","callId":"hook@11","startTime":47749.048,"class":"Test","method":"step","apiName":"After Hooks","params":{},"stack":[]}
+{"type":"after","callId":"hook@11","endTime":50019.003,"attachments":[]}
+{"type":"before","callId":"attach@12","startTime":52524.629,"class":"Test","method":"step","apiName":"attach \"trace\"","params":{},"stack":[]}
+{"type":"after","callId":"attach@12","endTime":52524.996,"attachments":[]}

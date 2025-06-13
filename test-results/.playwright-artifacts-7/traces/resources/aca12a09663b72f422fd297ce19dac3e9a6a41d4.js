@@ -1,0 +1,14 @@
+(window["webpackJsonp"] = window["webpackJsonp"] || []).push([[73],{
+
+/***/ "./json/candidate-data_2.json":
+/*!************************************!*\
+  !*** ./json/candidate-data_2.json ***!
+  \************************************/
+/*! exports provided: id, name, avatar, position, status, experience_match, skill_gap, applied_position, department, experience, expected_salary, notice_period, application_date, skills, certifications, interview_stages, evaluation, default */
+/***/ (function(module) {
+
+eval("module.exports = JSON.parse(\"{\\\"id\\\":\\\"CAND-2025-002\\\",\\\"name\\\":\\\"Emily Johnson\\\",\\\"avatar\\\":\\\"@/assets/img/avatars/avatar_02.png\\\",\\\"position\\\":\\\"Data Scientist\\\",\\\"status\\\":\\\"in_progress\\\",\\\"experience_match\\\":true,\\\"skill_gap\\\":true,\\\"applied_position\\\":\\\"Senior Data Scientist\\\",\\\"department\\\":\\\"Data Science\\\",\\\"experience\\\":6,\\\"expected_salary\\\":135000,\\\"notice_period\\\":\\\"2 months\\\",\\\"application_date\\\":\\\"2025-03-10\\\",\\\"skills\\\":{\\\"technical\\\":[{\\\"name\\\":\\\"Python\\\",\\\"level\\\":95},{\\\"name\\\":\\\"Machine Learning\\\",\\\"level\\\":90},{\\\"name\\\":\\\"TensorFlow\\\",\\\"level\\\":85},{\\\"name\\\":\\\"SQL\\\",\\\"level\\\":80}],\\\"soft\\\":[\\\"Analytical Thinking\\\",\\\"Problem Solving\\\",\\\"Teamwork\\\",\\\"Presentation Skills\\\",\\\"Research\\\"]},\\\"certifications\\\":[{\\\"name\\\":\\\"Google Professional Data Engineer\\\",\\\"issuer\\\":\\\"Google Cloud\\\",\\\"date\\\":\\\"2024\\\"},{\\\"name\\\":\\\"AWS Certified Machine Learning Specialty\\\",\\\"issuer\\\":\\\"Amazon Web Services\\\",\\\"date\\\":\\\"2023\\\"}],\\\"interview_stages\\\":[{\\\"name\\\":\\\"Resume Screening\\\",\\\"completed\\\":true,\\\"date\\\":\\\"2025-03-11\\\",\\\"status\\\":\\\"Passed\\\",\\\"icon\\\":\\\"mdi mdi-file-document\\\"},{\\\"name\\\":\\\"Technical Assessment\\\",\\\"completed\\\":true,\\\"date\\\":\\\"2025-03-14\\\",\\\"status\\\":\\\"Passed\\\",\\\"icon\\\":\\\"mdi mdi-code-tags\\\"},{\\\"name\\\":\\\"Technical Interview\\\",\\\"completed\\\":false,\\\"icon\\\":\\\"mdi mdi-account-tie\\\"},{\\\"name\\\":\\\"HR Interview\\\",\\\"completed\\\":false,\\\"icon\\\":\\\"mdi mdi-account-group\\\"}],\\\"evaluation\\\":{\\\"technical_rating\\\":5,\\\"communication_rating\\\":4,\\\"culture_fit_rating\\\":4,\\\"notes\\\":\\\"Exceptional technical skills in machine learning and data analysis. Needs slight improvement in explaining complex concepts to non-technical stakeholders. Strong cultural fit with our data-driven approach.\\\"}}\");//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9qc29uL2NhbmRpZGF0ZS1kYXRhXzIuanNvbi5qcyIsInNvdXJjZXMiOltdLCJtYXBwaW5ncyI6IiIsInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./json/candidate-data_2.json\n");
+
+/***/ })
+
+}]);

@@ -1,0 +1,23 @@
+{"version":7,"type":"context-options","origin":"testRunner","browserName":"","options":{},"platform":"linux","wallTime":1749808544955,"monotonicTime":85339.856,"sdkLanguage":"javascript"}
+{"type":"before","callId":"hook@1","startTime":85344.606,"class":"Test","method":"step","apiName":"Before Hooks","params":{},"stack":[]}
+{"type":"after","callId":"hook@1","endTime":85350.466,"attachments":[]}
+{"type":"before","callId":"pw:api@2","startTime":85351.574,"class":"Test","method":"step","apiName":"page.goto","params":{"url":"/en/@app/management/accounting-management/annual-closing","waitUntil":"load"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":6,"column":16,"function":"goToPage"}]}
+{"type":"after","callId":"pw:api@2","endTime":89882.246,"attachments":[]}
+{"type":"before","callId":"expect@3","startTime":92884.06,"class":"Test","method":"step","apiName":"expect.toBeVisible","params":{},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":9,"column":30,"function":"goToPage"}]}
+{"type":"after","callId":"expect@3","endTime":92919.186,"attachments":[]}
+{"type":"before","callId":"pw:api@4","startTime":92920.524,"class":"Test","method":"step","apiName":"locator.click","params":{"selector":"i.mdi.mdi-backburger >> nth=0","strict":"true"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":10,"column":22,"function":"goToPage"}]}
+{"type":"after","callId":"pw:api@4","endTime":92983.633,"attachments":[]}
+{"type":"before","callId":"expect@5","startTime":92984.486,"class":"Test","method":"step","apiName":"expect.toBeVisible","params":{},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":14,"column":26,"function":"goToPage"}]}
+{"type":"after","callId":"expect@5","endTime":93009.62,"attachments":[]}
+{"type":"before","callId":"pw:api@6","startTime":93010.984,"class":"Test","method":"step","apiName":"locator.isVisible","params":{"selector":"internal:text=\"error 404\"i","strict":"true"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":15,"column":43,"function":"goToPage"}]}
+{"type":"after","callId":"pw:api@6","endTime":93043.733,"attachments":[]}
+{"type":"before","callId":"expect@7","startTime":93044.63,"class":"Test","method":"step","apiName":"expect.toBeVisible","params":{},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/tests/admin-screenshots/jc.spec.js","line":741,"column":15}]}
+{"type":"after","callId":"expect@7","endTime":93066.615,"attachments":[]}
+{"type":"before","callId":"pw:api@8","startTime":96067.55,"class":"Test","method":"step","apiName":"page.screenshot","params":{"path":"output/L06.png","fullPage":"false","mask":"undefined","type":"png"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/screenshotNoTime.js","line":18,"column":16,"function":"screenshot"}]}
+{"type":"after","callId":"pw:api@8","endTime":96139.301,"attachments":[]}
+{"type":"before","callId":"pw:api@9","startTime":96140.876,"class":"Test","method":"step","apiName":"page.screenshot","params":{"path":"output/L07.png","fullPage":"false","mask":"undefined","type":"png"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/screenshotNoTime.js","line":18,"column":16,"function":"screenshot"}]}
+{"type":"after","callId":"pw:api@9","endTime":96223.833,"attachments":[]}
+{"type":"before","callId":"hook@10","startTime":96224.743,"class":"Test","method":"step","apiName":"After Hooks","params":{},"stack":[]}
+{"type":"after","callId":"hook@10","endTime":98505.801,"attachments":[]}
+{"type":"before","callId":"attach@11","startTime":101122.283,"class":"Test","method":"step","apiName":"attach \"trace\"","params":{},"stack":[]}
+{"type":"after","callId":"attach@11","endTime":101122.531,"attachments":[]}

@@ -1,0 +1,25 @@
+{"version":7,"type":"context-options","origin":"testRunner","browserName":"","options":{},"platform":"linux","wallTime":1749808621584,"monotonicTime":161976.216,"sdkLanguage":"javascript"}
+{"type":"before","callId":"hook@1","startTime":161978.179,"class":"Test","method":"step","apiName":"Before Hooks","params":{},"stack":[]}
+{"type":"after","callId":"hook@1","endTime":161983.912,"attachments":[]}
+{"type":"before","callId":"pw:api@2","startTime":161984.998,"class":"Test","method":"step","apiName":"page.goto","params":{"url":"/en/@app/management/supplier/supplier-list","waitUntil":"load"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":6,"column":16,"function":"goToPage"}]}
+{"type":"after","callId":"pw:api@2","endTime":167746.21,"attachments":[]}
+{"type":"before","callId":"expect@3","startTime":170749.226,"class":"Test","method":"step","apiName":"expect.toBeVisible","params":{},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":9,"column":30,"function":"goToPage"}]}
+{"type":"after","callId":"expect@3","endTime":170835.11,"attachments":[]}
+{"type":"before","callId":"pw:api@4","startTime":170837.283,"class":"Test","method":"step","apiName":"locator.click","params":{"selector":"i.mdi.mdi-backburger >> nth=0","strict":"true"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":10,"column":22,"function":"goToPage"}]}
+{"type":"after","callId":"pw:api@4","endTime":170923.156,"attachments":[]}
+{"type":"before","callId":"expect@5","startTime":170924.992,"class":"Test","method":"step","apiName":"expect.toBeVisible","params":{},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":14,"column":26,"function":"goToPage"}]}
+{"type":"after","callId":"expect@5","endTime":170972.104,"attachments":[]}
+{"type":"before","callId":"pw:api@6","startTime":170973.438,"class":"Test","method":"step","apiName":"locator.isVisible","params":{"selector":"internal:text=\"error 404\"i","strict":"true"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":15,"column":43,"function":"goToPage"}]}
+{"type":"after","callId":"pw:api@6","endTime":171014.803,"attachments":[]}
+{"type":"before","callId":"expect@7","startTime":171016.034,"class":"Test","method":"step","apiName":"expect.toBeVisible","params":{},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/tests/admin-screenshots/jc.spec.js","line":741,"column":15}]}
+{"type":"after","callId":"expect@7","endTime":171078.716,"attachments":[]}
+{"type":"before","callId":"pw:api@8","startTime":174080.584,"class":"Test","method":"step","apiName":"page.screenshot","params":{"path":"output/I01.png","fullPage":"false","mask":"undefined","type":"png"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/screenshotNoTime.js","line":18,"column":16,"function":"screenshot"}]}
+{"type":"after","callId":"pw:api@8","endTime":174159.944,"attachments":[]}
+{"type":"before","callId":"pw:api@9","startTime":174162.157,"class":"Test","method":"step","apiName":"page.screenshot","params":{"path":"output/I02.png","fullPage":"false","mask":"undefined","type":"png"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/screenshotNoTime.js","line":18,"column":16,"function":"screenshot"}]}
+{"type":"after","callId":"pw:api@9","endTime":174259.928,"attachments":[]}
+{"type":"before","callId":"pw:api@10","startTime":174261.708,"class":"Test","method":"step","apiName":"page.screenshot","params":{"path":"output/I03.png","fullPage":"false","mask":"undefined","type":"png"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/screenshotNoTime.js","line":18,"column":16,"function":"screenshot"}]}
+{"type":"after","callId":"pw:api@10","endTime":174347.6,"attachments":[]}
+{"type":"before","callId":"hook@11","startTime":174348.274,"class":"Test","method":"step","apiName":"After Hooks","params":{},"stack":[]}
+{"type":"after","callId":"hook@11","endTime":176922.153,"attachments":[]}
+{"type":"before","callId":"attach@12","startTime":179804.634,"class":"Test","method":"step","apiName":"attach \"trace\"","params":{},"stack":[]}
+{"type":"after","callId":"attach@12","endTime":179804.932,"attachments":[]}

@@ -1,0 +1,22 @@
+let addresses = [
+    "International Commerce Centre, 1 Austin Road West, Kowloon",
+    "The Center, 99 Queen's Road Central, Central",
+    "Two International Finance Centre, 8 Finance Street, Central",
+    "The Lee Garden One, 33 Hysan Avenue, Causeway Bay",
+    "Cyberport 3, 100 Cyberport Road, Cyberport",
+    "Lippo Centre Tower 1, 89 Queensway, Admiralty",
+    "The Landmark, 15 Queen's Road Central, Central",
+    "Cheung Kong Center, 2 Queen's Road Central, Central",
+    "The Gateway, 25 Canton Road, Tsim Sha Tsui",
+    " Times Square, 1 Matheson Street, Causeway Bay",
+    " Hopewell Centre, 183 Queen's Road East, Wan Chai",
+    " Pacific Place, 88 Queensway, Admiralty",
+    " Bank of America Tower, 12 Harcourt Road, Central",
+    " The Center, 99 Queen's Road Central, Central",
+    " Exchange Square, 8 Connaught Place, Central",
+    " The Hong Kong Club Building, 3A Chater Road, Central",
+    " One Island East, 18 Westlands Road, Quarry Bay",
+    " Jardine House, 1 Connaught Place, Central",
+    " Lee Garden Two, 28 Yun Ping Road, Causeway Bay",
+    " The Hong Kong Jockey Club Building, 1 Sports Road, Happy Valley"
+]

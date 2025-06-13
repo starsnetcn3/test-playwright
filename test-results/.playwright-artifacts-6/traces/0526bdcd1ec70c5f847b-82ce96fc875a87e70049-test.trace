@@ -1,0 +1,23 @@
+{"version":7,"type":"context-options","origin":"testRunner","browserName":"","options":{},"platform":"linux","wallTime":1749808605149,"monotonicTime":145541.795,"sdkLanguage":"javascript"}
+{"type":"before","callId":"hook@1","startTime":145544.14,"class":"Test","method":"step","apiName":"Before Hooks","params":{},"stack":[]}
+{"type":"after","callId":"hook@1","endTime":145549.92,"attachments":[]}
+{"type":"before","callId":"pw:api@2","startTime":145550.871,"class":"Test","method":"step","apiName":"page.goto","params":{"url":"/en/@app/accounting-and-finance/payment-follow-up-settings","waitUntil":"load"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":6,"column":16,"function":"goToPage"}]}
+{"type":"after","callId":"pw:api@2","endTime":150268.209,"attachments":[]}
+{"type":"before","callId":"expect@3","startTime":153271.373,"class":"Test","method":"step","apiName":"expect.toBeVisible","params":{},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":9,"column":30,"function":"goToPage"}]}
+{"type":"after","callId":"expect@3","endTime":153316.384,"attachments":[]}
+{"type":"before","callId":"pw:api@4","startTime":153318.078,"class":"Test","method":"step","apiName":"locator.click","params":{"selector":"i.mdi.mdi-backburger >> nth=0","strict":"true"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":10,"column":22,"function":"goToPage"}]}
+{"type":"after","callId":"pw:api@4","endTime":153443.362,"attachments":[]}
+{"type":"before","callId":"expect@5","startTime":153444.94,"class":"Test","method":"step","apiName":"expect.toBeVisible","params":{},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":14,"column":26,"function":"goToPage"}]}
+{"type":"after","callId":"expect@5","endTime":153508.328,"attachments":[]}
+{"type":"before","callId":"pw:api@6","startTime":153510.378,"class":"Test","method":"step","apiName":"locator.isVisible","params":{"selector":"internal:text=\"error 404\"i","strict":"true"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":15,"column":43,"function":"goToPage"}]}
+{"type":"after","callId":"pw:api@6","endTime":153582.207,"attachments":[]}
+{"type":"before","callId":"expect@7","startTime":153583.389,"class":"Test","method":"step","apiName":"expect.toBeVisible","params":{},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/tests/admin-screenshots/jc.spec.js","line":741,"column":15}]}
+{"type":"after","callId":"expect@7","endTime":153615.459,"attachments":[]}
+{"type":"before","callId":"pw:api@8","startTime":156617.543,"class":"Test","method":"step","apiName":"page.screenshot","params":{"path":"output/H07.png","fullPage":"false","mask":"undefined","type":"png"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/screenshotNoTime.js","line":18,"column":16,"function":"screenshot"}]}
+{"type":"after","callId":"pw:api@8","endTime":156696.119,"attachments":[]}
+{"type":"before","callId":"pw:api@9","startTime":156698.071,"class":"Test","method":"step","apiName":"page.screenshot","params":{"path":"output/H08.png","fullPage":"false","mask":"undefined","type":"png"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/screenshotNoTime.js","line":18,"column":16,"function":"screenshot"}]}
+{"type":"after","callId":"pw:api@9","endTime":156779.533,"attachments":[]}
+{"type":"before","callId":"hook@10","startTime":156780.432,"class":"Test","method":"step","apiName":"After Hooks","params":{},"stack":[]}
+{"type":"after","callId":"hook@10","endTime":159231.916,"attachments":[]}
+{"type":"before","callId":"attach@11","startTime":161975.308,"class":"Test","method":"step","apiName":"attach \"trace\"","params":{},"stack":[]}
+{"type":"after","callId":"attach@11","endTime":161975.525,"attachments":[]}

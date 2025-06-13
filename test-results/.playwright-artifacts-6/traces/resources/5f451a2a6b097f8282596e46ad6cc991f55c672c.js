@@ -1,0 +1,14 @@
+(window["webpackJsonp"] = window["webpackJsonp"] || []).push([[162],{
+
+/***/ "./json/purchase-order-details-data_2.json":
+/*!*************************************************!*\
+  !*** ./json/purchase-order-details-data_2.json ***!
+  \*************************************************/
+/*! exports provided: order, default */
+/***/ (function(module) {
+
+eval("module.exports = JSON.parse(\"{\\\"order\\\":{\\\"po_number\\\":\\\"PO2026002\\\",\\\"created_date\\\":\\\"2025-04-15T10:15:00Z\\\",\\\"status\\\":\\\"approved\\\",\\\"priority\\\":\\\"medium\\\",\\\"notes\\\":\\\"Urgent order for office renovation project\\\",\\\"timeline\\\":[{\\\"title\\\":\\\"Order Created\\\",\\\"date\\\":\\\"2025-04-12T10:15:00Z\\\",\\\"icon\\\":\\\"mdi mdi-file-document-outline\\\",\\\"completed\\\":true},{\\\"title\\\":\\\"Pending Approval\\\",\\\"date\\\":\\\"2025-04-14T11:20:00Z\\\",\\\"icon\\\":\\\"mdi mdi-clock-outline\\\",\\\"completed\\\":true},{\\\"title\\\":\\\"Approved\\\",\\\"date\\\":\\\"2025-04-18T09:00:00Z\\\",\\\"icon\\\":\\\"mdi mdi-check-circle-outline\\\",\\\"completed\\\":true},{\\\"title\\\":\\\"Sent to Supplier\\\",\\\"date\\\":\\\"2025-04-25T09:15:00Z\\\",\\\"icon\\\":\\\"mdi mdi-email-outline\\\",\\\"completed\\\":false}],\\\"supplier\\\":{\\\"company\\\":\\\"Global Office Supplies Inc.\\\",\\\"contact_person\\\":\\\"Sarah Wong\\\",\\\"email\\\":\\\"sarah.wong@globalsupplies.com\\\",\\\"phone\\\":\\\"+852 9876 5432\\\"},\\\"delivery\\\":{\\\"required_date\\\":\\\"2025-04-30\\\",\\\"shipping_method\\\":\\\"Express Shipping\\\",\\\"address\\\":{\\\"line1\\\":\\\"Suite 1502, Business Tower\\\",\\\"line2\\\":\\\"88 Finance Street\\\",\\\"city\\\":\\\"Hong Kong\\\",\\\"country\\\":\\\"Hong Kong SAR\\\"}},\\\"items\\\":[{\\\"item_code\\\":\\\"DESK001\\\",\\\"description\\\":\\\"Executive Office Desk\\\",\\\"specifications\\\":\\\"180cm x 80cm, Mahogany Finish\\\",\\\"unit\\\":\\\"pcs\\\",\\\"quantity\\\":12,\\\"unit_price\\\":4500,\\\"tax_rate\\\":7,\\\"total\\\":54000},{\\\"item_code\\\":\\\"CHAIR002\\\",\\\"description\\\":\\\"Ergonomic Office Chair\\\",\\\"specifications\\\":\\\"Adjustable Height, Lumbar Support\\\",\\\"unit\\\":\\\"pcs\\\",\\\"quantity\\\":24,\\\"unit_price\\\":3200,\\\"tax_rate\\\":7,\\\"total\\\":76800},{\\\"item_code\\\":\\\"CAB003\\\",\\\"description\\\":\\\"Filing Cabinet\\\",\\\"specifications\\\":\\\"4 Drawer, Lockable, Black\\\",\\\"unit\\\":\\\"pcs\\\",\\\"quantity\\\":8,\\\"unit_price\\\":2800,\\\"tax_rate\\\":7,\\\"total\\\":22400}],\\\"calculations\\\":{\\\"subtotal\\\":153200,\\\"tax\\\":10724,\\\"shipping\\\":3500,\\\"total\\\":167424}}}\");//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9qc29uL3B1cmNoYXNlLW9yZGVyLWRldGFpbHMtZGF0YV8yLmpzb24uanMiLCJzb3VyY2VzIjpbXSwibWFwcGluZ3MiOiIiLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./json/purchase-order-details-data_2.json\n");
+
+/***/ })
+
+}]);

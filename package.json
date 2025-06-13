@@ -1,0 +1,22 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.38.0"
+  },
+  "dependencies": {
+    "@thednp/dommatrix": "^2.0.11",
+    "axios": "^1.7.9",
+    "chance": "^1.1.12",
+    "child_process": "^1.0.2",
+    "dotenv": "^16.0.3",
+    "pdf-image": "^2.0.0",
+    "pdf-lib": "^1.17.1",
+    "sharp": "^0.33.5"
+  }
+}

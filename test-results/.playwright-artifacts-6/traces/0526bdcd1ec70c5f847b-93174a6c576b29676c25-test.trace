@@ -1,0 +1,4 @@
+{"version":7,"type":"context-options","origin":"testRunner","browserName":"","options":{},"platform":"linux","wallTime":1749808729932,"monotonicTime":270324.762,"sdkLanguage":"javascript"}
+{"type":"before","callId":"hook@1","startTime":270327.419,"class":"Test","method":"step","apiName":"Before Hooks","params":{},"stack":[]}
+{"type":"after","callId":"hook@1","endTime":270334.265,"attachments":[]}
+{"type":"before","callId":"pw:api@2","startTime":270335.601,"class":"Test","method":"step","apiName":"page.goto","params":{"url":"/en/@app/management/supplier/customer-service","waitUntil":"load"},"stack":[{"file":"/home/cn3-starsnet/桌面/test-with-playwright/utils/goToPageWaiting.js","line":6,"column":16,"function":"goToPage"}]}
